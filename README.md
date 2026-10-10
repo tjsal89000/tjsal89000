@@ -48,6 +48,19 @@
 
 ---
 
+## 💼 실무 프로젝트 연혁
+
+| 기간 | 프로젝트 | 주요 기술 |
+|:---:|---|---|
+| 2025.06 ~ 2026.08 | **조선소 절단공장 야드 관제 시스템**<br>야드 관제 웹·모바일, 크레인 작업지시·취소·재고 제어 SQL 프로시저 | Nexacro, Morpheus, Java, Spring, Oracle(SQL Procedure), JavaScript, GitLab |
+| 2025.06 ~ 2026.08 | **조선소 전처리공장 QR 인식 시스템**<br>IP 카메라 실시간 캡처, QR 영역 탐지 모델 학습, ERP 자재 정보와 정합성 검증 | Python, OpenCV, YOLO, pyzbar, SAP Interface |
+| 2025.06 ~ 2026.08 중 1개월 | **K-Cloud 국가사업 GPU 할당 Cloud IDE** (참여)<br>Kubeflow 기반 GPU 자원 할당 웹 IDE 구현 참여 | Kubeflow, React, TypeScript, Node.js |
+| 2023.12 ~ 2025.04 | **레이더 센서 생체신호 모니터링 플랫폼** (인프라·백엔드 총괄, 현재 운영 중)<br>다국가(영국·UAE·한국·일본·독일 등) 센서 데이터 분산 수집 → 중앙 통합 처리, 이상징후 관제 대시보드 | Python(Socket·Multi-thread), Nginx, Docker Compose, NestJS, Next.js, React, Redux, PostgreSQL, Shell Script |
+| 2023.12 ~ 2025.04 | **클라우드·온프레미스 인프라 운영** (위 플랫폼)<br>Saving Plan으로 EC2 비용 약 30%, Spot Instance로 테스트 비용 82% 절감 · RAID 1 이중화 · 접근 제어 · Slack 장애 알림 | AWS(EC2, IAM, Route53, SSM), Linux, Prometheus, Grafana, Zabbix, Certbot |
+| 2020.11 ~ 2021.02 | **차량부품 비전 불량 검사 시스템**<br>카메라 기반 불량 판정, PLC 통신 제어, ROI·감마 보정 알고리즘 | C#, WinForms, MySQL, PLC |
+
+---
+
 ## 🚀 개인 프로젝트
 
 > 직접 설계하고, 부하테스트와 동시성 검증까지 해 본 프로젝트입니다.
