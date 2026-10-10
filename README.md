@@ -1,7 +1,5 @@
 <div align="center">
 
-# 안녕하세요, 윤경록입니다 👋
-
 **5년차 백엔드 개발자**
 
 [![Email](https://img.shields.io/badge/Email-tjsal89000@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:tjsal89000@gmail.com)
