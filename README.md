@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./banner.svg" width="100%" alt="YGRHASH - 5년차 백엔드 개발자">
+<img src="./banner.svg" width="100%" alt="YGRHASH">
 
 [![Email](https://img.shields.io/badge/Email-tjsal89000@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:tjsal89000@gmail.com)
 
