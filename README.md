@@ -67,7 +67,7 @@
 
 ### 🔹 Payment AIOps Platform
 [![Live Demo](https://img.shields.io/badge/Live_Demo-aiops.ygrhash.dev-2ea44f?style=flat-square&logo=googlechrome&logoColor=white)](https://aiops.ygrhash.dev/dashboard/)
-[![Code](https://img.shields.io/badge/Code-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/tjsal89000/2026_-Portfolio)
+[![Code](https://img.shields.io/badge/Code-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/ygrhash/Portfolio)
 
 가상 결제 트래픽을 실시간으로 흘려 **이상 징후를 자동 탐지**하고, AI가 운영 리포트를 작성하는 폴리글랏 관제 플랫폼
 - Java(결제 API·Kafka 소비자) / Python(트래픽 생성·이상 탐지·AI 리포트) / TypeScript(게이트웨이·대시보드)를 언어별 강점에 맞게 배치
